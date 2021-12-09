@@ -1,0 +1,181 @@
+a {
+  color: #11999E;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 5.625rem;
+  color: #F8F8FF;
+  line-height: 2em;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  line-height: 2em;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 8%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+#aspire {
+  font-weight: bold;
+  color: #F8F8FF;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 250px;
+}
+
+.bottom-container {
+  display: block;
+  background-color: #66BFBF;
+  position: relative;
+  padding: 60px 0 10px 0;
+}
+
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #87CEEB);
+  background-image: -moz-linear-gradient(top, #66BFBF, #87CEEB);
+  background-image: -ms-linear-gradient(top, #66BFBF, #87CEEB);
+  background-image: -o-linear-gradient(top, #66BFBF, #87CEEB);
+  background-image: -webkit-gradient(to bottom, #3D94F6, #87CEEB);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px 15px;
+  border: solid #66BFBF 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.btn:hover {
+  border: solid #337FED 1px;
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #87CEEB, #87CEEB);
+  background-image: -moz-linear-gradient(top, #87CEEB, #87CEEB);
+  background-image: -ms-linear-gradient(top, #87CEEB, #87CEEB);
+  background-image: -o-linear-gradient(top, #87CEEB, #87CEEB);
+  background-image: -webkit-gradient(to bottom, #87CEEB, #87CEEB);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.contact-h3 {
+  margin-bottom: 40px;
+}
+
+.copyright-footer {
+  color: #EAF6F6;
+  font-size: 0.85rem;
+  margin: 50px;
+}
+
+.finance-image {
+  width: 40%;
+  float: right;
+  margin-right: 5px;
+}
+
+.footer-link {
+  margin: 30px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+#finance-skill {
+  text-align: left;
+}
+
+.intro {
+  width: 80%;
+  margin: auto;
+}
+
+.middle-container {
+  display: inline-block;
+  width: 50%;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+.python-image {
+  width: 40%;
+  float: left;
+  margin-right: -40px;
+  margin-bottom: 30px;
+}
+
+#python-skill {
+  text-align: right;
+}
+
+#python-title {
+  text-align: right;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto;
+  width: 90%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.top-container {
+  display: block;
+  background-color: #87CEEB;
+  position: relative;
+  padding-top: 100px;
+}
